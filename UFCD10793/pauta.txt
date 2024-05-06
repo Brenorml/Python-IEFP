@@ -1,0 +1,6 @@
+Nome        Apelido    Idade       Nota1       Nota2       Nota3       Nota4        Media       Resultado        Aproveitamento
+-------------------------------------------------------------------------------------------------------------------------------
+Pereira     Susana      28          12.5        18.1        17.6        13.2        15.35        Aprovado             Bom             
+Duarte      Celia       25          14.0        11.6        16.5        12.7        13.7         Aprovado             Suf             
+Lopes       Jorge       29          18.0        18.0        18.0        18.0        18.0         Aprovado          Muito Bom          
+Breno       Lucena      41          10.0        2.0         6.2         7.0         6.3         Reprovado             Ins             

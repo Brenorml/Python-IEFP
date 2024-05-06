@@ -1,0 +1,11 @@
+Turma: NST-PROG13
+Disciplina: UFCD-10794 - Programação Avançada com Python
+Grupo: Malevolent Creation
+
+Componentes:
+    Breno Lucena
+    Inês Figueiredo
+
+ Autoavaliação:
+    Breno Lucena - nota: 180
+    Inês Figueiredo - nota: 180
