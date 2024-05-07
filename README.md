@@ -21,5 +21,6 @@ Aplicativos desenvolvidos durante as disciplinas UFCD10793 e UFCD10794 no curso 
 * PyCharm Community Edition 2023.2.1
 * Windows 10 Home - versão 22H2
 * FastAPI
+* Flask
 * Postman
 * Swagger
